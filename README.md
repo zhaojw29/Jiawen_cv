@@ -12,6 +12,7 @@ Welcome to download my cv and transcript profile!
 
 - I am a junior undergraduate student majoring in **Artificial Intelligence** at the School of Artificial Intelligence, **Sun Yat-sen University (SYSU)**.
 - My research journey started with exploring **Multi-Agent Systems** for video understanding. Building on this foundation, my current research interests focus heavily on **Agentic AI** (e.g., Long-term memory optimization for agents, AI auto-research, ). I am passionate about developing Co-Evolution of environments and agents
+- My email: zhaojw29@mail2.sysu.eud.cn
 
 ## 📝 Research & Publications
 
@@ -22,6 +23,10 @@ Here are some of my recent research highlights and contributions:
 
 - ⏳ **[Under Review at IEEE TMM]** Another paper is currently under review at *IEEE Transactions on Multimedia*.
   -  **Benchmark:** [`SYSUzzz/PCXVQA`](https://github.com/SYSUzzz/PCXVQA)
+
+## Recent interest 
+### 🛠️ Agentic AI
+- **[Build Your Own Claude Code](https://github.com/cookiesheep/build-your-own-claude-code):** My friends and I are trying creating a tutorial on how to build a Coding Agent based on the Claude Code source code.
 
 ---
 <p align="center">
