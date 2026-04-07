@@ -26,5 +26,5 @@ Here are some of my recent research highlights and contributions:
 ---
 <p align="center">
   <em>Always open to discussions and collaborations in Agentic AI, Multi-Agent Systems, and Video Understanding!</em> <br>
-  🎓 <strong>I am actively seeking Ph.D. opportunities for Fall 2027. Please feel free to reach out!</strong>
+  🎓 <strong>I am actively seeking Ph.D. opportunities for Fall 2027 and intern opportunity. Please feel free to reach out!</strong>
 </p>
