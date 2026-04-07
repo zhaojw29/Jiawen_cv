@@ -25,7 +25,7 @@ Here are some of my recent research highlights and contributions:
   -  **Benchmark:** [`SYSUzzz/PCXVQA`](https://github.com/SYSUzzz/PCXVQA)
 
 ## 🛠️Recent interest 
-- Agentic AI **[Build Your Own Claude Code](https://github.com/cookiesheep/build-your-own-claude-code):** My friends and I are trying creating a tutorial on how to build a Coding Agent based on the Claude Code source code.
+- Agentic AI **[Build Your Own Claude Code](https://github.com/cookiesheep/build-your-own-claude-code)** and **[Claude Code DIY](https://github.com/cookiesheep/claude-code-diy)**:My friends and I are trying creating a tutorial on how to build a Coding Agent based on the Claude Code source code.
 
 ---
 <p align="center">
