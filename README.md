@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Major-Artificial_Intelligence-FF6F00?style=flat-square" alt="Major" />
 </p>
 
-Welcome to my GitHub profile! 
+Welcome to download my cv and transcript profile! 
 
 ## 🎓 Brief About Me
 
